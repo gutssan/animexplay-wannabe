@@ -1,0 +1,134 @@
+body {
+    background-color: black;
+
+
+  }
+
+  h1{
+    color: white;
+  }
+  img {
+    display: block;
+  margin-left: 5%;
+  margin-top:  5%;
+    width: 10;
+    height: 20rem;
+  }
+p{
+    margin-left: 6.5rem;
+}
+#onepiece{
+display: block;
+margin-left: 20%;
+margin-top: -19.5%;
+}
+.op{
+    margin-left: 23.3%;
+}
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
+body {
+	margin: 0;
+	background: #222;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 800;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+header {
+  background: #2e302f;
+}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.logo {
+  float: right;
+  padding: 10px 0;
+}
+
+nav {
+  float: left;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 23px;
+
+  position: relative;
+}
+
+nav a {
+  color: rgb(242, 241, 247);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+nav a:hover {
+  color: rgb(253, 249, 249);
+}
+
+nav a::before {
+  content: '';
+  display: block;
+  height: 5px;
+  background-color: #444;
+
+  position: absolute;
+  top: 0;
+  width: 0%;
+
+  transition: all ease-in-out 250ms;
+}
+
+nav a:hover::before {
+  width: 100%;
+}
+
+.sololeveling2{
+    margin-left: 8%;
+    color: aliceblue;
+}
+#sololeveling{
+  display: block;
+  margin-top: 7%;
+}
+#shadow2{
+  margin-top: 7%;
+  
+}
+
+.shadow3{
+  color: antiquewhite;
+
+}
+
+  
+
+
+    
+
+   
+    
+
+  
+
+
+  
+
+  
+  
